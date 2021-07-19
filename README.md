@@ -25,7 +25,7 @@
 ### 📜 My Plan : 
 
 - Rich 🤑
-- bahagia selamanya
+- Happy ever After
 <hr/>
 <!--
 **aditgege/aditgege** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
