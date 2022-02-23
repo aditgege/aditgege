@@ -24,8 +24,7 @@
 
 ### 📜 My Plan : 
 
-- Rich 🤑
-- Happy ever After
+- Usefull
 <hr/>
 <!--
 **aditgege/aditgege** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
